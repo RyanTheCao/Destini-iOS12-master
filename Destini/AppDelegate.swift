@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Destini
 //
-//  Created by Philipp Muellauer on 01/09/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
+//  Created by Ryan Cao on 10/7/19.
+//  Copyright (©) 2015 Ryan Cao. All rights reserved.
 //
 
 import UIKit
