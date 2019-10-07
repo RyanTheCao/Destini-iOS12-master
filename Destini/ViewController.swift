@@ -63,4 +63,14 @@ class ViewController: UIViewController {
             bottomButton.isHidden = true
         }
     }
+    
+    func startOver() {
+        
+        storyTextView.text = story1
+        topButton.isHidden = false
+        bottomButton.isHidden = false
+        topButton.setTitle(answer1a, for: .normal)
+        bottomButton.setTitle(answer1b, for: .normal)
+        storyIndex = 1
+    }
 }
